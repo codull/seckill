@@ -3,8 +3,6 @@
  基于Spring+SpringMVC+Mybatis+redis的高并发秒杀系统
 ___
 ## 介绍
-根据慕课网的高并发秒杀系统的教学写的一个SSM框架项目
-[慕课网连接](https://www.imooc.com/u/2145618/courses?sort=publish)
 该项目是SSM项目很好的入门学习例子，后端采用redis进行缓存优化
 前端采用bootstrap，非本人编写
 ___
